@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on creating web apps
-- 🌱 I’m currently learning Java, C/C++, HTML and CSS
+- I’m currently working on creating web apps
+- I’m currently learning Java, C/C++, HTML and CSS
 
 <div align="center">
   <a href="https://github.com/Gustavo-NSAbreu">
